@@ -1,4 +1,4 @@
-# codel-ietf
+# git init -b main
 
 Exact C and Python ports of the IETF CoDel pseudocode, with
 simulations showing standing-queue control under overload and bursts.
